@@ -1,1 +1,6 @@
-create new file called 0000-01-02-chelledev.md in the _posts folder
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
